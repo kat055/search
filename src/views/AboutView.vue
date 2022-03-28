@@ -1,15 +1,14 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
-</template>
+<div>
 
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
+<div class="bg-slate-400 h-screen w-1/4">
+
+<form action="search" class="py-24 px-4">
+  <input type="text" name="search" placeholder="SEARCH"
+  class="px-12">
+</form>
+
+</div>
+
+</div>
+</template>
