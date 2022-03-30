@@ -6,7 +6,7 @@
 <form action="search" class="py-24 px-4">
   <input type="text" name="search" placeholder="SEARCH"
   class="px-12">
-</form>
+</form> 
 
 </div>
 
